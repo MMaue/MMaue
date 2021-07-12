@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @MMaue
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... here
+# Welcome to my GitHub
 
-<!---
-MMaue/MMaue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi there, I'm Miguel 👀
+
+- I’m interested in Python
+- I’m currently learning Python, SQL, HTML, CSS
+- Some future Python projects
+  - GUI to work with PDF
+  - Program to create wordclouds from any sourcetext
+  - GUI to design a custom periodic table and save it as pdf
+  - new custom tkinter widgets like
+    - a graph
+    - a printable canvas
+    - a usable table
+
+---
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MMaue)](https://github.com/MMaue/github-readme-stats "My GitHub stats")
