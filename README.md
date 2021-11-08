@@ -2,17 +2,7 @@
 
 ## Hi there, I'm Miguel 👀
 
-- I’m interested in Python
-- I’m currently learning Python, HTML, CSS, SQL
-- Some future Python projects
-  - GUI to work with PDF
-  - Program to create wordclouds from any sourcetext
-  - GUI to design a custom periodic table and save it as pdf
-  - GUI that is able to work with databases in multiple ways
-  - new custom tkinter widgets like
-    - a graph
-    - a printable canvas
-    - a usable table
+
 
 ---
 
